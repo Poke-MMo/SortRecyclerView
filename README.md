@@ -6,4 +6,4 @@ The list data is processed and a new list of alphabetically sorted letters is di
 ![这里写图片描述](https://github.com/xupeng92/SortRecyclerView/raw/master/img/Recyclerview.gif)<br>
 <br>
 <br>
-csdn博客地址:http://blog.csdn.net/SilenceOO/article/details/75661590
+解析博客地址:http://blog.csdn.net/SilenceOO/article/details/75661590
